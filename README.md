@@ -8,7 +8,8 @@ Projeto desenvolvido para reacriar um modelo se site e-cmomerce
 | :label: Tecnologias | html, css, JavaScript
 | :fire: Objetivo  | Front-End
 
-Para ver o projeto basta baixar a pasta zip e iniciar clicando no icone web ou entrar pelo link 
+Para ver o projeto basta baixar a pasta zip e iniciar clicando no icone web ou entrar pelo link:
+https://joaorsena.github.io/Bumblebee/
 
 
 ![](https://user-images.githubusercontent.com/89817889/198409305-340e93f3-31cd-4e9b-a45c-e1939046d52a.jpg#vitrinedev)
